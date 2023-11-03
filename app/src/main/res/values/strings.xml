@@ -3,4 +3,22 @@
     <string name="men">Hombre</string>
     <string name="female">Mujer</string>
     <string name="height">Altura</string>
+    <string name="weight">Peso</string>
+    <string name="age">Edad</string>
+    <string name="calculate">Calcular</string>
+    <string name="result">Tu resultado</string>
+    <string name="Recalculate">Re-calculate</string>
+    <string name="error">Error</string>
+
+    <string name="Title_low_Weight">Bajo Peso</string>
+    <string name="Description_low_Weight">Tienes un bajo Peso</string>
+
+    <string name="Title_normal_Weight">Normal</string>
+    <string name="Description_normal_Weight">Tienes un peso normal</string>
+
+    <string name="Title_high_Weight">Sobrepeso</string>
+    <string name="Description_high_Weight">Tienes sobrepeso</string>
+
+     <string name="Title_obesity_Weight">Obesidad</string>
+    <string name="Description_obesity_Weight">Tienes Obesidad</string>
 </resources>
